@@ -1,0 +1,13 @@
+/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.AssemblyReference.cache
+/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache

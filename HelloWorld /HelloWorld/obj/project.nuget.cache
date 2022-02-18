@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rBweyR3Syc3N2HbWBywiTwkCCUoLenyaRwZab+dD6kOUZobTAl3U/mhUc3lvcInvJDPljqa9E9R9zkaD336hnw==",
+  "success": true,
+  "projectFilePath": "/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld /HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/dustinkey/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/dustinkey/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

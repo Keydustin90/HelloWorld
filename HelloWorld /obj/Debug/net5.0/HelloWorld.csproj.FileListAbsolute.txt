@@ -1,0 +1,5 @@
+/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/Users/dustinkey/repos/HelloWorld/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
